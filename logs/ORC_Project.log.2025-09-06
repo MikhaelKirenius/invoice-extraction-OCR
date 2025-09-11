@@ -1,0 +1,4 @@
+2025-09-06 01:45:53 | ORC_Project | INFO | Collecting CSV files from data/batch_1/
+2025-09-06 01:45:53 | ORC_Project | INFO | Found CSV file: data/batch_1\batch1_1.csv
+2025-09-06 01:45:53 | ORC_Project | INFO | Found CSV file: data/batch_1\batch1_2.csv
+2025-09-06 01:45:53 | ORC_Project | INFO | Found CSV file: data/batch_1\batch1_3.csv
