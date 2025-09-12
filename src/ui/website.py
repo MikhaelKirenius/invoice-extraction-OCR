@@ -82,7 +82,7 @@ if run_btn:
                 st.info(f"{item.get('filename')}: Tidak ada field terdeteksi.")
                 continue
 
-            # Tampilkan ringkas per file
+            
             st.write(f"**{item.get('filename')}**")
             for k, v in structured.items():
                 st.write(f"- **{k}**: {v}")

@@ -1,8 +1,7 @@
-2025-09-11 23:26:14 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:26:58 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:27:17 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:28:46 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:28:52 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:28:59 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:29:05 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-11 23:29:11 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
+2025-09-12 03:38:05 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\mikhaelkrns\invoice-ner-v1
+2025-09-12 03:38:15 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\mikhaelkrns\invoice-ner-v1
+2025-09-12 03:39:17 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
+2025-09-12 03:43:01 | ORC_Project | INFO | Loading NER model from: None
+2025-09-12 03:43:08 | ORC_Project | INFO | Loading NER model from: mikhaelkrns/invoice-ner-v1
+2025-09-12 03:43:15 | ORC_Project | INFO | Loading NER model from: mikhaelkrns/invoice-ner-v1
+2025-09-12 03:44:13 | ORC_Project | INFO | Hasil ekstraksi: {'INVOICE_NUMBER': '18999056', 'INVOICE_DATE': '07/29/2011', 'SELLER_NAME': 'Wood - Kim', 'CLIENT_NAME': 'Thompson PLC', 'TOTAL': '164,97'}

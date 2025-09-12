@@ -17,3 +17,4 @@ fastapi[standard]
 uvicorn[standard]
 streamlit
 requests
+huggingface_hub

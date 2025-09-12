@@ -1,3 +1,6 @@
 myvenv/
-data/
 models/
+data/batch_1
+data/batch_2
+data/batch_3
+logs/
