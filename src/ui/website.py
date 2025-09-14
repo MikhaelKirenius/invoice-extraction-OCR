@@ -4,7 +4,8 @@ import requests
 import streamlit as st
 import pandas as pd
 
-API_URL = os.getenv("API_URL", "http://localhost:8000")
+API_URL = os.getenv("API_URL", "http://localhost:7860")
+
 
 st.set_page_config(page_title="Invoice Extractor", page_icon="🧾", layout="centered")
 st.title("🧾 Invoice Extractor (OCR + NER)")
@@ -47,7 +48,7 @@ if run_btn:
             files = [("files", (f.name, f.getvalue(), f.type or "application/octet-stream")) for f in files_sel]
         
         with st.spinner("Memproses di server..."):
-            resp = requests.post(f"{API_URL}{endpoint}", files=files, timeout=120)
+            resp = requests.post(f"{API_URL}{endpoint}", files=files, timeout=500)
 
         if not resp.ok:
             st.error(f"API error: {resp.status_code}\n{resp.text}")

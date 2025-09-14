@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+
+transformers
+huggingface_hub
+
+easyocr
+opencv-python-headless
+
+pandas
+numpy
+pyyaml
+requests
+xmltodict

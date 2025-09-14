@@ -11,7 +11,7 @@ from src.utils.logger import default_logger as logger
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_path', type=str, required=True,)
+    parser.add_argument('--data_path', type=str, required=True, default='./data/invoice_ner_dataset.jsonl')
     parser.add_argument('--model_name', type=str, default='bert-base-cased')
     parser.add_argument('--n_trials', type=int, default=10)
     parser.add_argument('--output_dir', type=str, default='./final_model')

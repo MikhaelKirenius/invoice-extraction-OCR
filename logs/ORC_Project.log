@@ -1,7 +1,3 @@
-2025-09-12 03:38:05 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\mikhaelkrns\invoice-ner-v1
-2025-09-12 03:38:15 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\mikhaelkrns\invoice-ner-v1
-2025-09-12 03:39:17 | ORC_Project | INFO | Loading NER model from: C:\Users\PC\Documents\final_project_ocr_dibimbing\models\ner_best_v3
-2025-09-12 03:43:01 | ORC_Project | INFO | Loading NER model from: None
-2025-09-12 03:43:08 | ORC_Project | INFO | Loading NER model from: mikhaelkrns/invoice-ner-v1
-2025-09-12 03:43:15 | ORC_Project | INFO | Loading NER model from: mikhaelkrns/invoice-ner-v1
-2025-09-12 03:44:13 | ORC_Project | INFO | Hasil ekstraksi: {'INVOICE_NUMBER': '18999056', 'INVOICE_DATE': '07/29/2011', 'SELLER_NAME': 'Wood - Kim', 'CLIENT_NAME': 'Thompson PLC', 'TOTAL': '164,97'}
+2025-09-13 04:09:41 | ORC_Project | INFO | Loading NER model from: mikhaelkrns/invoice-ner-v1
+2025-09-13 04:10:08 | ORC_Project | INFO | Loading NER model from: mikhaelkrns/invoice-ner-v1
+2025-09-13 04:10:37 | ORC_Project | INFO | Hasil ekstraksi: {'INVOICE_NUMBER': '81040846', 'INVOICE_DATE': '02/07/2021', 'SELLER_NAME': 'Gibson - Gonzalez', 'CLIENT_NAME': 'Osborne', 'TOTAL': '375,87'}

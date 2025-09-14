@@ -4,6 +4,7 @@ from ..config import settings
 from typing import Dict
 from src.ocr.preprocessing_text import TextProcessingNER
 from src.utils.logger import default_logger as Logger
+import os
 
 class ExtractorService:
     def __init__(self):
